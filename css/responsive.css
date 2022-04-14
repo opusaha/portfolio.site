@@ -1,0 +1,141 @@
+@media only screen and (max-width: 320px) {
+    .sec1{
+        width: 100%;
+    }
+    .ban-main{
+        width: 100%;
+    }
+    .ban-text{
+        margin-left: 1px;
+    }
+    .ban-text h2{
+        font-size: 25px;
+    }
+    .ban-text .main{
+        font-size: 22px;
+    }
+    .ban-text .text{
+        font-size: 20px;
+        padding-right: 0px;
+    }
+    #about{
+        padding: 20px 0px;
+    }
+    .abt-txt{
+        padding-left: 0px;
+    }
+    .abt-txt h4{
+        font-size: 30px;
+    }
+    .abt-txt p{
+        padding-right: 0px;
+        font-size: 20px;
+    } 
+    .abt-counter {
+        padding-left: 75px;
+    }
+    .skills {
+        margin: 20px 5px;
+    }
+}
+
+@media only screen and (min-width: 375px) {
+    .sec1{
+        width: 100%;
+    }
+    .ban-main{
+        width: 100%;
+    }
+    .ban-text{
+        margin-left: 1px;
+    }
+    .ban-text h2{
+        font-size: 25px;
+    }
+    .ban-text .main{
+        font-size: 22px;
+    }
+    .ban-text .text{
+        font-size: 20px;
+        padding-right: 0px;
+    }
+    #about{
+        padding: 20px 0px;
+    }
+    .abt-txt{
+        padding-left: 0px;
+    }
+    .abt-txt h4{
+        font-size: 30px;
+    }
+    .abt-txt p{
+        padding-right: 0px;
+        font-size: 22px;
+    } 
+    .abt-counter {
+        padding-left: 80px;
+    }
+    .skills {
+        margin: 20px 8px;
+    }
+}
+
+@media only screen and (min-width: 425px) {
+    .sec1{
+        width: 100%;
+    }
+    .ban-main{
+        width: 100%;
+    }
+    .ban-text{
+        margin-left: 1px;
+    }
+    .ban-text h2{
+        font-size: 35px;
+    }
+    .ban-text .main{
+        font-size: 28px;
+    }
+    .ban-text .text{
+        font-size: 25px;
+        padding-right: 0px;
+    }
+    #about{
+        padding: 20px 0px;
+    }
+    .abt-txt{
+        padding-left: 0px;
+    }
+    .abt-txt h4{
+        font-size: 30px;
+    }
+    .abt-txt p{
+        padding-right: 0px;
+        font-size: 25px;
+    } 
+    .abt-counter {
+        padding-left: 0px;
+    }
+    .skills {
+        margin: 20px 10px;
+    }
+    .port-middle .middle h1 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: #ffba17;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+}

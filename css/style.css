@@ -32,7 +32,7 @@ body{
     /* background-color: rgba(25, 30, 32, 0.7); */
 }
 .nav-logo{
-    height: 100px;
+    height: 60px;
     padding-left: 15px;
     padding-right: 15px;
     /* border: 2px solid #ffba17;
@@ -178,8 +178,8 @@ body{
     content: "";
     top: 0;
     left: 0;
-    height: 101%;
-    width: 101%;
+    height: 100%;
+    width: 100%;
     background-color: rgb(80, 79, 79);
     z-index: -1;
     opacity: 0.2;
